@@ -44,6 +44,9 @@
 
 ![image](https://github.com/LLSean/bangwodu/blob/main/bangwodu.jpeg)
 
+同时我们上线科技创投圈资讯群（每日更新科技创投圈大佬阅读文章，看大佬们在阅读什么）
+![image](https://github.com/LLSean/bangwodu/blob/main/qgroup.png)
+
 目前『帮我读』刚刚起步，欢迎大家提出需求和宝贵建议（可在公众号中加入用户群），让『帮我读』变得更好，帮你和朋友省点儿阅读时间。
 
 
